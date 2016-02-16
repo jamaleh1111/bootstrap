@@ -59,11 +59,6 @@ body {
 .navbar a {
   color:#d8e6f3;
 }
-.navbar a
-/* index.html */
-.features .glyphicon {
-  font-size: 32px;
-}
 
 .navbar a:hover {
   color: #fff;
@@ -88,6 +83,11 @@ body {
   .dropdown-menu>li>a {
     color: #d8e6f3;
   }
+}
+
+/* index.html */
+.features .glyphicon {
+  font-size: 32px;
 }
 
 /* blog */
